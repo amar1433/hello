@@ -1,4 +1,4 @@
-a=10
+a=int(input("enter the number"))
 b=20
-c=a+b
+ac=a+b
 print(c)
